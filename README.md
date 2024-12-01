@@ -1,9 +1,4 @@
 # House_price_prediction
-Sure! Here's a basic README file for a house price prediction project:
-
----
-
-# House Price Prediction
 
 ## Overview
 This project aims to predict house prices using various machine learning algorithms. The dataset used contains features such as the number of bedrooms, bathrooms, floors, and built year.
